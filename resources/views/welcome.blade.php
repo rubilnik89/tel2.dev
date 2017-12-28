@@ -105,8 +105,10 @@
 
             </div>
         </div>
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="{{ asset('js/main.js') }}"></script>
+
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.13/jquery.mask.min.js"></script>
+        <script src="{{ asset('js/main.js') }}"></script>
 
     </body>
 </html>
